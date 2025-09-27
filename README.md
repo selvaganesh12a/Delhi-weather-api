@@ -6,7 +6,7 @@ This is a backend application developed to process and serve nearly two decades 
 
 ### Key Features
 
-  * **Data Processing & Storage**: The application fetches weather data from a CSV file, processes it, and stores it efficiently in a MySQL database.
+  * **Data Processing & Storage**: The application fetches weather data from a excel file, processes it, and stores it efficiently in a MySQL database.
   * **Modular API Design**: The codebase is split into a modular fashion with clear separation of concerns (Controller, Service, Repository, Entity).
   * **Specific API Endpoints**:
       * Retrieve weather details (condition, temperature, humidity, pressure) for a specific month or date.
