@@ -1,6 +1,6 @@
 ### Delhi Weather Data API
 
-This is a backend application developed to process and serve nearly two decades of weather forecast data for Delhi. The project transforms raw CSV data into a structured format, stores it in a MySQL database, and exposes a robust API for data retrieval and analysis. It was developed as a technical assessment.
+This is a backend application developed to process and serve nearly two decades of weather forecast data for Delhi. The project transforms raw Excel data into a structured format, stores it in a MySQL database, and exposes a robust API for data retrieval and analysis. It was developed as a technical assessment.
 
 -----
 
